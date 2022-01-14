@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gloomaps scheme="1.0">
+  <link>https://www.gloomaps.com/k97s3xnP3R</link>
+  <pubdate>01/14/2022</pubdate>
+  <section>
+    <box>
+      <text>Resume Plus
+</text>
+      <member>
+        <box>
+          <text>home</text>
+          <member>
+            <box>
+              <text>What is Resume Plus</text>
+              <propa>#ffffff</propa>
+              <propb>#000000</propb>
+              <propc>Lato</propc>
+              <propd>100%</propd>
+              <member/>
+            </box>
+          </member>
+        </box>
+        <box>
+          <text>Resume Builder</text>
+          <member/>
+        </box>
+        <box>
+          <text>Contact</text>
+          <member/>
+        </box>
+        <box>
+          <text>Buy this domain</text>
+          <member/>
+        </box>
+        <box>
+          <text>about</text>
+          <propa>#ffffff</propa>
+          <propb>#000000</propb>
+          <propc>Lato</propc>
+          <propd>100%</propd>
+          <member/>
+        </box>
+      </member>
+    </box>
+  </section>
+</gloomaps>
